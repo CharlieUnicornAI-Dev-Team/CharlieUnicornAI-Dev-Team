@@ -1,5 +1,5 @@
 
-# 👋 Welcome to Charlie Unicorn AI  
+# 👋 Welcome to Charlie Unicorn AI Dev Team
 ### 🦄 A New Era of Innovation in Web3, Gaming, and AI  
 
 At **Charlie Unicorn AI**, we're not just building apps — we're crafting an entire **decentralized ecosystem** that blends AI, Web3, gaming, and real-world utility into one groundbreaking vision. Founded in **December 2024**, our company is rapidly reshaping the future of decentralized technology through real, working products — not vaporware.
@@ -76,12 +76,6 @@ We don’t follow trends — **we set them**.
 ## ✨ Join the Movement
 
 If you're here to collaborate, contribute, or learn more about **Charlie Unicorn AI**, you're in the right place. This GitHub is the home for our open-source tools, smart contracts, and ecosystem components.
-
-**📬 Connect with us**  
-→ Website: [Coming Soon](https://charlieunicornai.eu)
-→ Telegram Community: [[Live & Growing](https://t.me/CharlieUnicornaiOfficial)]  
-→ Twitter / X: [@[CHRLEunicornAI](https://x.com/CHRLEunicornAI)]  
-→ Email: [info@charlieunicornai.eu]
 
 ---
 
